@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Campeões do LOL</title>
+    <style>
+	table{
+    	font-family: arial, sans-serif;
+    	border-collapse: collapse;
+        }
+    th, td {
+    	border: 1px solid black;
+    	padding: 5px;
+    	}
+	th  { background-color: gray;}
+</style>
+
+</head>
+<body>
+	<table style="width:50%">
+    	<tr>
+        	<th style="width:80%">Campeões</th>
+            <th>Role</th>
+            <th>Tipo</th>
+        </tr>
+        <tr>
+        	<td><a href="https://www.leagueoflegends.com/pt-br/champions/shaco/" target="_blank">Shaco</a></td>
+            <td style="text-align:center">Selva</td>
+            <td style="text-align:center">Assassino</td>
+        </tr>
+        <tr>
+        	<td><a target="_blank" href="https://www.leagueoflegends.com/pt-br/champions/sivir/">Sivir</a></td>
+            <td style="text-align:center">Atirador</td>
+            <td style="text-align:center">DPS</td>
+        </tr>
+        <tr>
+        	<td><a target="_blank" href="https://www.leagueoflegends.com/pt-br/champions/lux/">Lux</a></td>
+            <td style="text-align:center">Meio</td>
+            <td style="text-align:center">Mago</td>
+        </tr>
+        <tr>
+        	<td><a target="_blank" href="https://www.leagueoflegends.com/pt-br/champions/sett/">Sett</a></td>
+            <td style="text-align:center">Topo</td>
+            <td style="text-align:center">Lutador/Bruiser</td>
+        </tr>
+        <tr>
+        	<td><a target="_blank" href="https://www.leagueoflegends.com/pt-br/champions/leona/">Leona</a></td>
+            <td style="text-align:center">Suporte</td>
+            <td style="text-align:center">Iniciador</td>
+        </tr>
+    </table>
+</body>
+</html>
